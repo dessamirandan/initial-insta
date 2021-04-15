@@ -4,7 +4,7 @@
 https://digitalinnovation.one
 
 
-Projeto prático BOOTCAMP [HTML WEB Developer] (https://web.digitalinnovation.one/track/html-web-developer?tab=path). Módulo 5 Recriando a página inicial do Intagram.
+Projeto prático BOOTCAMP [HTML WEB Developer](https://web.digitalinnovation.one/track/html-web-developer?tab=path). Módulo 5 Recriando a página inicial do Intagram.
 
 Nesse projeto você terá o desafio de reconstruir a página inicial de login do Instagram, no qual será abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade, além disso a expert disponibiliza todo o material necessário em seu GitHub para que você possa realizar o seu projeto.
 
