@@ -6,40 +6,45 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
-    <title>Instagram</title>
+    <script src="https://kit.fontawesome.com/0c99c9f279.js" crossorigin="anonymous"></script>
+    <title>Instagram - Fazer login</title>
 </head>
 
 <body>
-    <section class="instagram-celular">
-        <img src="/img/instagram-celular.png" alt="Instagram no celular IOS">
-        <img src="/img/instagram-android.png" alt="Celular android Instagram">
-    </section>
-    <section>
-        <img class="logo-instagram" src="/img/instagram-logo.png" alt="Logo do Instagram">
-        <div class="perfil-foto">
-            <img src="/img/IMG_20150502_164049.jpg" alt="Foto de Perfil">
+    <article class="container">
+        <div class="imagem-celular">
+            <img src="/img/instagram-celular.png" alt="Instagram no celular IOS">
         </div>
-        <div class="area-login">
-            <form>
-                <input type="text" value="username">
-                <input type="text" value="password">
-                <input type="button" value="Login">
-            </form>
-            <span> OR </span>
+        <div class="login">
+            <div class="bloco">
+                <div class="logo-instagram">
+                    <img class="" src="/img/instagram-logo.png" alt="Logo do Instagram">
+                </div>
+                <div class="area-login">
+                    <form class="form-login">
+                        <input type="text" name="username" value="Phone number, username or email">
+                        <input type="text" name="password" value="Password">
+                        <input type="button" value="Submit">
+                    </form>
+                    <div class="separador">
+                        <span> OR </span>
+                    </div>
+                    <div class="login-alternativo">
+                        <a href="#"><i class="fab fa-facebook-square" aria-hidden="true"></i>Sign in with facebook </a>
+                        <a href="#">Forgot password</a>
+                    </div>
+                </div>
+            </div>
+            <div class="bloco registro">
+                <p>Don't have an account? <a href="">Register Now</a> </p>
+            </div>
+            <div class="download">
+                <span>Get the app </span>
+                <a href=""><img src="/img/appleplay-button.png" alt="Baixar na App Store"></a>
+                <a href=""><img src="/img/googleplay-button.png" alt="Baixar no Google Play"></a>
+            </div>
         </div>
-        <div class="cadastro">
-
-        </div>
-        <div>
-            <span> Obtenha o Aplicativo </span>
-            <img src="" alt="">
-            <img src="" alt="">
-
-        </div>
-    </section>
-
-
-
+    </article>
 </body>
 
 </html>
