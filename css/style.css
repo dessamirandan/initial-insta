@@ -1,0 +1,26 @@
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+a {
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #262626;
+    background: #FAFAFA;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+* {
+    box-sizing: border-box;
+}
