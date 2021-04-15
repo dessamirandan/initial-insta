@@ -10,7 +10,11 @@ Nesse projeto você terá o desafio de reconstruir a página inicial de login do
 
 ## Projeto Final
 
-[img](https://github.com/dessamirandan/initial-insta/blob/master/assets/Desktop.png)
+![###Versão Desktop](https://github.com/dessamirandan/initial-insta/blob/master/assets/Desktop.png)
+
+![###Versão Ipad](https://github.com/dessamirandan/initial-insta/blob/master/assets/IPadPro.png)
+
+![###Versão Smartphone](https://github.com/dessamirandan/initial-insta/blob/master/assets/smartphone.png)
 
 ## Habilidades Desenvolvidas
  - [x] HTML5
